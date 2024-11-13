@@ -8,6 +8,5 @@ I'm a Front end & specializing in Internet Of Things. Passionate about coding, o
 - Databases: MySQL
 - Internet Of Things
 
-## 🌐 Connect with Me
-- [LinkedIn](linkedin.com/in/muhamad-hendy-saputra-334641269)
+## 🌐 Follow Me in Instagram 😎
 - [Instagram](https://www.instagram.com/mhmdhndysptr)
