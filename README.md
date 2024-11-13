@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Henz! 👋
 
-<!--
-**HenzEXE/HenzEXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front end & specializing in Internet Of Things. Passionate about coding, open-source, and learning new technologies!
 
-Here are some ideas to get you started:
+## 📚 Skills
+- Frontend: React, Angular, Vite
+- Backend: Node.js
+- Databases: MySQL
+- Internet Of Things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](linkedin.com/in/muhamad-hendy-saputra-334641269)
+- [Instagram](https://www.instagram.com/mhmdhndysptr)
