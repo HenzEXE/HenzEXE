@@ -8,9 +8,6 @@ I'm a Front end & specializing in Internet Of Things. Passionate about coding, o
 - Databases: MySQL
 - Internet Of Things
 
-## 🌐 Follow Me in Instagram 😎
-- [Instagram](https://www.instagram.com/mhmdhndysptr)
-
 ## ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 [Klik Disini Sir😎](https://open.spotify.com/user/21swi5cfuencwui3v4xjwp56a?si=08733f2d93634537)
 
